@@ -1,0 +1,12 @@
+setup.py
+ciff_2017_af3_jbcmjc/__init__.py
+ciff_2017_af3_jbcmjc/create_lagged_series2.py
+ciff_2017_af3_jbcmjc/grafica.py
+ciff_2017_af3_jbcmjc/hist_bokeh.py
+ciff_2017_af3_jbcmjc/hist_json.py
+ciff_2017_af3_jbcmjc/main.py
+hist_predicting.egg-info/PKG-INFO
+hist_predicting.egg-info/SOURCES.txt
+hist_predicting.egg-info/dependency_links.txt
+hist_predicting.egg-info/not-zip-safe
+hist_predicting.egg-info/top_level.txt
